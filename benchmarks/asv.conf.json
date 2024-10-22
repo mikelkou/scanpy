@@ -86,6 +86,8 @@
         "pooch": [""],
         "scikit-image": [""],
         // "scikit-misc": [""],
+	"scikit-learn": [""],
+        "pip+asv_runner": [""]
     },
 
     // Combinations of libraries/python versions can be excluded/included
